@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psopuch93
-- 👀 I’m interested in web developing and basketball
+- 👀 I’m interested in web development and basketball
 - 🌱 I’m currently learning python
 - 📫 Holla at me psopuch93@gmail.com
 
